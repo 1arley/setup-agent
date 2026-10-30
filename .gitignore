@@ -1,0 +1,9 @@
+# Generated runtime data (docker volume mount ./data:/opt/data)
+data/
+
+# Graphify indexing cache
+graphify-out/
+
+# OS junk
+.DS_Store
+Thumbs.db
